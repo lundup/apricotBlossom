@@ -15,6 +15,7 @@
  .container img{
     margin-bottom: -4px;
     display: block;
+    width: 70vw;
 } 
 .container form{
     position: fixed;
@@ -173,6 +174,7 @@ background-color: #FF6600
 .whatsApp-btn{
     position: fixed;
     bottom: 0;
+    font-size: large;
     right: 550px;
 }
 a{
